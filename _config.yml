@@ -1,9 +1,10 @@
-title: Streamdata Gallery Google Fusion Tables
+title: Streamdata API Gallery - 
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
 url: google-fusion-tables.streamdata.gallery
-tag: Google Fusion Tables
+tag: 
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery
+github_user: streamdata-gallery-entities
 github_repo: google-fusion-tables
 github_branch: master
 collections:
