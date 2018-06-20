@@ -5,10 +5,10 @@ description: Fusion Tables is an experimental data visualization web application
   gather, visualize, and share data tables.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-fusion-tables.jpg
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Fusion Tables
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-fusion-tables/master/_listings/google-fusion-tables/apis.md
 specificationVersion: "0.14"
 apis:
