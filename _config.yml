@@ -4,7 +4,7 @@ url: google-fusion-tables.streamdata.gallery
 tag: Google Fusion Tables
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: google-fusion-tables
 github_branch: master
 collections:
